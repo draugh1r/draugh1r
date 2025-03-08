@@ -11,8 +11,9 @@ Let's connect and create something incredible together!
 🧬 **The future of AI?** I believe the next evolution of artificial intelligence will be biological, merging technology with the complexity of life itself.  
 
 ---
-
 ## 🚀 About Me
+<details>
+<summary> 🐇 Down the rabbit hole </summary>
 
 - 🌍 Building **NeoSapiensAI**, an AI and data-driven company developing solutions for mid-sized enterprises.  
 - 🎓 Dropped out of Computer Science to **focus on hands-on AI development** and real-world applications.  
@@ -20,3 +21,4 @@ Let's connect and create something incredible together!
 - 📚 Studied Machine Learning with **Andrew Ng**, refining my skills through research, projects, and experiments.  
 - 🛠️ Experienced with **Python, PyTorch, C++, AWS, DigitalOcean, and Netlify**, building scalable and efficient AI systems.  
 - 🛸 **Beyond tech:** I love **exploring the mysteries of the universe, playing and listening to music, reading books, watching anime, and cooking**.  
+</details>
